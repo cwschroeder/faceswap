@@ -1,0 +1,11 @@
+# Large video files
+*.webm
+*.mp4
+*.mkv
+
+# Extracted frames (can be regenerated)
+video-frames/
+
+# Temporary files
+*.tmp
+.DS_Store
